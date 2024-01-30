@@ -1,2 +1,7 @@
 #### 
 COMP2156 
+
+What is DevOPs?
+  -A combination of software development(dev) and 
+  operations (ops)
+  -
