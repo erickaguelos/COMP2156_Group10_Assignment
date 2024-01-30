@@ -4,4 +4,5 @@ COMP2156
 What is DevOPs?
   -A combination of software development(dev) and 
   operations (ops)
-  -
+  -Represents the current stat of the evolution of software
+  delivery cycles during past 20+ years.
