@@ -6,3 +6,6 @@ What is DevOPs?
   operations (ops)
   -Represents the current stat of the evolution of software
   delivery cycles during past 20+ years.
+  -Ultimately, DevOps is about meeting software users ever-increasing
+  demand for frequent, innovative new features and uninterrupted performance and 
+  availability 
