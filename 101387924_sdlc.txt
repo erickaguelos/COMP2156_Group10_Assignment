@@ -1,0 +1,3 @@
+Software Development Life Cycle is a systematic process software engineers use.
+
+Stages: Planning, Analysis, Design, Implementation, Testing, Deployment and Maintenance.
