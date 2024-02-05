@@ -1,3 +1,7 @@
 Software Development Life Cycle is a systematic process software engineers use.
 
 Stages: Planning, Analysis, Design, Implementation, Testing, Deployment and Maintenance.
+
+DevOps fosters a culture of collaboration between software development and IT teams.
+
+SDLC helps DevOps practices continually review requirements by facilitating rapid feedback loops with stakeholders.
