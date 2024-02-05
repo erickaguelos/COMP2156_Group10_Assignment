@@ -1,0 +1,3 @@
+This course aims to teach students how to use the procedures, protocols, and best practices that a DevOps engineer should follow.
+
+The DevOps course teaches analyzing and evaluating various developers.
