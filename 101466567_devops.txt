@@ -1,0 +1,15 @@
+The COMP 2156 DevOps course is focused on DevOps principles and practices. 
+The list of topics encompasses a broad range of essential DevOps principles and practices, including:
+
+Introduction to DevOps principles and practices
+Git, GitHub & more BASH
+Version Control for DevOps
+Developer Operations Landscape
+Preparing and Hosting Automating Software Builds
+Continuous Integration (CI) and Continuous Deployment (CD) workflows
+Preparing Data storage and cloud databases
+Infrastructure as Code (IaC)
+Automation tools and techniques
+Monitoring and logging
+Collaboration and communication strategies
+Cloud services and containerization technologies like Docker and Kubernetes
