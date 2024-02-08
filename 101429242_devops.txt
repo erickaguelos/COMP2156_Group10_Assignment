@@ -1,0 +1,3 @@
+COMP2156 DevOps:
+
+DevOps unifies software development and IT operations, fostering seamless collaboration for efficient product delivery.
