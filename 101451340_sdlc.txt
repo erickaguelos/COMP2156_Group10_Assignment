@@ -1,6 +1,7 @@
 The software development lifecycle (SDLC), a time- and money-efficient method, to design and create high-quality software.
 The Software Development Life Cycle, or SDLC, is a process that generates software at the lowest feasible cost and with the greatest quality in the quickest amount of time.
-These are a few advantages of SDLC: 
+
+These are a few advantages of SDLC:
 
 improved transparency of the development process for all concerned parties 
 Effective scheduling, planning, and estimating 
