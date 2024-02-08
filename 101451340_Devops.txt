@@ -1,2 +1,5 @@
 DevOps is a combination of software development (dev) and operations (ops).
 It is defined as a software engineering methodology which aims to integrate the work of development teams and operations teams by facilitating a culture of collaboration and shared responsibility.
+DevOps fosters collaboration and communication among cross-functional teams, breaking down silos between development, operations, and other stakeholders.
+DevOps emphasizes real-time monitoring and logging to detect and address issues promptly, contributing to improved system reliability and performance.
+DevOps practices aim to create scalable and resilient systems, accommodating changes in demand and ensuring optimal performance.
