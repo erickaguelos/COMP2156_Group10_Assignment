@@ -1,3 +1,10 @@
 COMP2156 DevOps:
 
 DevOps unifies software development and IT operations, fostering seamless collaboration for efficient product delivery.
+
+Automation and collaboration are core tenets of DevOps, ensuring streamlined processes and increased productivity.
+
+Key tools like Git, Docker, and Kubernetes facilitate efficient development, deployment, and management of software applications.
+
+DevOps enables continuous integration and deployment, allowing for rapid and reliable delivery of software updates and features.
+
