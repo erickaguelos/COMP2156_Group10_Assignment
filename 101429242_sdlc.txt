@@ -1,3 +1,11 @@
 Information about Software Development Life Cycle:
 
 Enhances collaboration between development and operations teams.
+
+Automate processes to improve efficiency and reduce errors.
+
+Implements continuous integration and continuous deployment pipelines.
+
+Optimizes infrastructure for scalability and flexibility.
+
+Monitors application performance and user feedback.
