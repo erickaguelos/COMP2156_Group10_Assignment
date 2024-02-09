@@ -14,7 +14,7 @@ Group Assignment
     2. DevOPs
     3. Learning about sdlc
 
-### 10146656 - Ericka Joy Guelos
+### 101466567 - Ericka Joy Guelos
     My work includes 3 txt files about:
     1. George Brown College 
     2. COMP 2156 DevOPs
