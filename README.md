@@ -6,7 +6,7 @@ Group Assignment
     My work includes 3 txt files:
     1. George Brown College information
     2. What is DevOPs
-    3. Learning about DevOPs 
+    3. Important of learning DevOps engineer in software development cycle
 
 ### 101387924 - Demet Bulut
     My work includes 3 txt files:
@@ -14,8 +14,14 @@ Group Assignment
     2. DevOPs
     3. Learning about sdlc
 
-### 10146656 - Ericka Joy Guelos
+### 101466567 - Ericka Joy Guelos
     My work includes 3 txt files about:
     1. George Brown College 
     2. COMP 2156 DevOPs
     3. The Importance of DevOps Engineer
+
+### 101451340 - Hita Gupta
+    My work includes 3 txt file:
+    1. Some information about George Brown College 
+    2. DevOPs Course
+    3. The software development lifecycle (SDLC) 
