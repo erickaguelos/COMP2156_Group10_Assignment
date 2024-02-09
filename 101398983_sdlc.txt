@@ -5,3 +5,6 @@ Develop a detailed technical design, outlining system architecture and component
 Write and rigorously test code, adhering to coding standards and utilizing version control systems for efficient code management.
 Conduct thorough testing at different levels, including unit, integration, and system testing. Identify and rectify defects to ensure high-quality software.
 Release the software to the production environment, following well-defined deployment plans. Monitor for any issues during the initial deployment phase.
+Address user feedback promptly, implementing updates or patches as needed. Perform regular maintenance activities to sustain software functionality.
+Create and maintain comprehensive documentation covering code, design decisions, user manuals, and system architecture. Ensure documentation remains current.
+Conduct post-implementation reviews to assess project success. Evaluate software performance in real-world conditions and gather user feedback for continuous improvement.
