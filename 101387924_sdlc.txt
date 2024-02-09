@@ -1,0 +1,19 @@
+Software Development Life Cycle is a systematic process software engineers use.
+
+Stages: Planning, Analysis, Design, Implementation, Testing, Deployment and Maintenance.
+
+DevOps fosters a culture of collaboration between software development and IT teams.
+
+SDLC helps DevOps practices continually review requirements by facilitating rapid feedback loops with stakeholders.
+
+SDLC In the design phase, DevOps encourages using automated tools and practices to design scalable and resilient systems.
+
+SDLC DevOps encourages the release of continuous integration tools to streamline code updates.
+
+DevOps improves the Testing phase by implementing automated testing frameworks and continuous testing practices.
+
+DevOps practices in the Maintenance and Monitoring phase include facilitating system optimizations to monitor the performance of applications.
+
+SDLC increases development speed.
+
+SDLC reduces project management expenses and overall production costs.

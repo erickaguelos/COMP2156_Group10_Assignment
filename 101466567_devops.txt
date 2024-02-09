@@ -1,0 +1,37 @@
+The COMP 2156 DevOps course is focused on DevOps principles and practices. 
+The list of topics encompasses a broad range of essential DevOps principles and practices, including:
+
+Introduction to DevOps principles and practices
+Git, GitHub & more BASH
+Version Control for DevOps
+Developer Operations Landscape
+Preparing and Hosting Automating Software Builds
+Continuous Integration (CI) and Continuous Deployment (CD) workflows
+Preparing Data storage and cloud databases
+Infrastructure as Code (IaC)
+Automation tools and techniques
+Monitoring and logging
+Collaboration and communication strategies
+Cloud services and containerization technologies like Docker and Kubernetes
+
+This curriculum is comprehensive and designed to equip students with a thorough understanding of DevOps
+concepts, tools, and practices. It prepares students for practical challenges in automating software 
+development and operational tasks, ensuring faster and more efficient delivery of applications.
+
+In addition to the core curriculum, the COMP 2156 DevOps course also emphasizes critical thinking and 
+problem-solving skills, enabling students to design and implement DevOps solutions that address real-world 
+challenges. By integrating case studies and project-based learning, the course offers a dynamic educational 
+experience that mirrors the complexities of today’s technology landscape. Students gain hands-on experience 
+with leading DevOps tools and platforms, enhancing their technical proficiency and readiness for industry 
+certifications.
+
+Furthermore, the course underscores the importance of soft skills, such as teamwork, leadership, and 
+adaptability, preparing students to thrive in collaborative and multidisciplinary environments. Through peer 
+reviews and group projects, students develop the communication and interpersonal skills essential for a 
+successful career in DevOps and beyond.
+
+By the end of the course, graduates are not only proficient in the technical aspects of DevOps but also 
+equipped with a holistic view of how DevOps practices contribute to the broader goals of digital 
+transformation and business agility. They are prepared to enter the workforce as DevOps engineers, capable 
+of bridging the gap between software development, IT operations, and quality assurance, thereby driving 
+efficiency, innovation, and continuous improvement within their organizations.

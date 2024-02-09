@@ -1,0 +1,10 @@
+DevOps is a combination of software development (dev) and operations (ops).
+It is defined as a software engineering methodology which aims to integrate the work of development teams and operations teams by facilitating a culture of collaboration and shared responsibility.
+DevOps fosters collaboration and communication among cross-functional teams, breaking down silos between development, operations, and other stakeholders.
+DevOps emphasizes real-time monitoring and logging to detect and address issues promptly, contributing to improved system reliability and performance.
+DevOps practices aim to create scalable and resilient systems, accommodating changes in demand and ensuring optimal performance.
+DevOps involves a cultural shift towards shared responsibility, accountability, and a mindset of continuous improvement, driving organizational agility and innovation.
+You can adopt a DevOps model without sacrificing security by using automated, integrated security testing tools.
+Communication and collaboration are keystones of the set of DevOps practices. 
+In 2009, the first conference named DevOps Days was held in Ghent, Belgium.
+DevOps initiatives can create cultural changes in companies[28] by transforming the way operations, developers, and testers collaborate during the development and delivery processes.

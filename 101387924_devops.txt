@@ -1,0 +1,17 @@
+This course aims to teach students how to use the procedures, protocols, and best practices that a DevOps engineer should follow.
+
+The DevOps course teaches analyzing and evaluating various developers.
+
+Students who meet the requirements of this course will have skills such as software development life cycle and containerization for deployment.
+
+In this course, students will use industry-standard tools, techniques, and strategies such as CI/CD.
+
+They will have the strategies and skills to use appropriate DevOps tools and Cloud databases.
+
+Technologies and techniques for software/network applications The DevOps course teaches ways to improve the software development lifecycle through cross-collaboration between IT units.
+
+Teaches you to make informed decisions between monolithic or microservice Architecture for software products.
+
+Students who complete this course may have sufficient skills to monitor code quality and CI/CD pipelines to improve and optimize DevOps processes.
+
+At the end of this course, students will be able to create effective strategies and learn about Infrastructure as Code and the benefits of cloud computing in deploying a software product.
