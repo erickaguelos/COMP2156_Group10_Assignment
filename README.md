@@ -2,6 +2,12 @@
 
 Group Assignment
 
+### 101398983 - Abhi Patel
+    My work includes 3 txt files:
+    1. Introduction on George Brown College 
+    2. DevOps Course Intro
+    3. What is SDLC?
+
 ### 101467653 - Benz Soliga
     My work includes 3 txt files:
     1. George Brown College information
