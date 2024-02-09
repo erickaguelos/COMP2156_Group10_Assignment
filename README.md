@@ -19,3 +19,9 @@ Group Assignment
     1. George Brown College 
     2. COMP 2156 DevOPs
     3. The Importance of DevOps Engineer
+
+### 101451340 - Hita Gupta
+    My work includes 3 txt file:
+    1. Some information about George Brown College 
+    2. DevOPs Course
+    3. The software development lifecycle (SDLC) 
