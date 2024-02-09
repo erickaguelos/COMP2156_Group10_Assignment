@@ -25,3 +25,9 @@ Group Assignment
     1. Some information about George Brown College 
     2. DevOPs Course
     3. The software development lifecycle (SDLC) 
+
+### 101429242 - Rania Mohammad Yousuf
+    My work includes 3 txt files:
+    1. Information of George Brown College 
+    2. DevOps Course Information
+    3. About sdlc
