@@ -9,4 +9,5 @@ What is DevOPs?
   -Ultimately, DevOps is about meeting software users ever-increasing
   demand for frequent, innovative new features and uninterrupted performance and 
   availability. 
- 
+  -  DevOps practices typically include automation, continuous integration/continuous delivery (CI/CD), infrastructure as code (IaC), monitoring, and feedback loops to enable 
+  faster and more reliable software development and deployment.
