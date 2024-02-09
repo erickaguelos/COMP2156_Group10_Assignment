@@ -1,0 +1,3 @@
+DevOps fosters collaboration between development and operations teams.
+It streamlines the software development lifecycle.
+Automation is key for continuous integration and deployment.
